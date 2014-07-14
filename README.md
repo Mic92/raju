@@ -1,20 +1,16 @@
-Öffentliches Recht
-------------------
+# Öffentliches Recht
 
 - zwischen dem Subject Staat und Bürger
 - *Unterordnung*, z.B. Steuern
 
-Zivilrecht
-----------
+# Zivilrecht
 
 - zwischen den Bürgern
 - *Gleichordnung*, z.B. Mietrecht
 - in der Regel *dispositives* (abänderbares) Recht (Vertragsfreiheit), aber
   einige *zwingende* Vereinbarungen (z.B. Haftungsausschluss)
 
-
-Rechtssubjekte
---------------
+# Rechtssubjekte
 
 - natürliche Personen:
     - Rechtfähigkeit: bereits vor der Geburt, Träger von Rechten/Pflichten
@@ -26,8 +22,7 @@ Rechtssubjekte
 - Staat
 
 
-Eigentum
---------
+# Eigentum
 
 absolutes Recht: allumfassende Herrschaft, gilt gegenüber jedem
 
@@ -42,8 +37,7 @@ Beispiel: Anna (Eigentümer) verleiht Berta (Besitzer) ihr Fahrrad
 *Rechtsgeschäft*: Handlungen, durch welche Personen ihren Willen realisieren und dadurch eine Änderung in rechtlichen Beziehungen herbeiführen.
 z.B. Kaufvertrag, Eheschließung, Kündigung, Testament
 
-Grundsatz der Privatautonomie
------------------------------
+# Grundsatz der Privatautonomie
 
 jeder regelt seine privaten Rechtsverhältnisse selbst:
 
@@ -55,7 +49,7 @@ jeder regelt seine privaten Rechtsverhältnisse selbst:
 - Testierfreiheit (Testament)
 
 Gleichbehandlung
-- Rasse, Geschlecht, Religion sind keine Gründe für Erstellen oder Beendigung
+- Rasse, Geschlecht, Religion sind keine Gründe für das Erstellen oder Beendigung
   von Verträgen
 - Ausnahmen:
   - Vermeidung von Gefahren
@@ -63,7 +57,7 @@ Gleichbehandlung
   - besondere Vorteile
   - Religion
 
-Vollmacht: ein Rechtsgeschäft begründete Vertretungsmacht
+Vollmacht: eine für Rechtsgeschäft begründete Vertretungsmacht
 
 Stellvertretung:
 - Handeln im Namen und für Rechnung eines anderen
@@ -75,16 +69,16 @@ Stellvertretung:
 Anscheinsvollmacht: Schutz des Vertragsschließenden, gegenüber dem als Stellvertreter eines anderen Auftretende
 -> Vertreter ohne Vertretungsmacht werden selbst verpflichtet
 
-Vertrag:
--------
+# Vertrag:
 
 - Schuldverhältnis durch wechselseitige Vereinbarung
+- *Schuldverhältnisse*: begründen das Recht (Anspruch) einer Person (Gläubiger) von einer anderen Person (Schuldner) etwas zu verlangen (Leistung)
 - Angebot: eindeutig, bindend
 - Annahme: uneingeschränkte Zustimmung, Schweigen ist keine Annahme
 - inhaltliche Übereinstimmung von beiden
 - Inhalt: Leistung und Gegenleistung objektiv bestimmbar
 - Verjährung: 3 Jahre ab dem Ende des Jahres, in dem der Anspruch entstanden
-  ist, muss erhoben werden, gehemmt durch Klage
+  ist, muss dieser erhoben werden; Verjährung wird gehemmt durch Klage
 - Ablauf:
   1. Angebot + Annahme
   2. Abwicklung
@@ -92,15 +86,14 @@ Vertrag:
 
 Erfüllung: vollständige rechtzeitige und richtige Leistung am richtigen Ort an die richtige Person (Gläubiger)
 
-Verträgsbeendigung
--------------------
+## Verträgsbeendigung
+
 - Erfüllung
 - Aufrechnung (Verrechnung von Schuldverhältnissen)
 - Hinterlegung (Verfahren um Annahmeverzugs durch den Gläubiger von der Leistungspflicht zu befreien)
 - Erlass
 
-Vertragsauflösung
------------------
+## Vertragsauflösung
 
 - Aufhebung
 - nicht einseitig aufhebar, außer:
@@ -111,8 +104,6 @@ Vertragsauflösung
     - außerordentliche Kündigung: wichtige Grund
   - Täuschung/Drohung
 
-*Schuldverhältnisse*: begründen das Recht (Anspruch) einer Person (Gläubiger) von einer anderen Person (Schuldner) etwas zu verlangen (Leistung)
-
 *Willenserklärung*:
 * eine nach außen hin eindeutige Äußerung des inneren Willens mit dem Ziel, eine Rechtsfolge herbeizuführen
 * formfrei (schriftlich, mündlich oder "konkludentes" Verhalten)
@@ -120,8 +111,7 @@ Vertragsauflösung
 * Wiederruf muss vor oder gleichzeitig mit dem Zugang der Willenserkärung
 * formfrei außer durch Gesetz eingeschränkt (z.B. Schriftform (Urkunde) = Inhalt + Unterschrift, notarielle Beurkundung)
 
-Leistungstörung (wenn Schuldner verantwortlich)
----------------
+## Leistungstörung (wenn Schuldner verantwortlich)
 
 - gar nicht
   - zurücktreten
@@ -131,24 +121,20 @@ Leistungstörung (wenn Schuldner verantwortlich)
   - zurücktreten (nach einer gesetzten Frist)
   - Verzugszinsen
 
-Mahnung
--------
+## Mahnung
 
 - konkrete Aufforderung, die geschuldete Leistung zu erbringen
 - Keine Mahnung erforderlich, wenn nach Kalender bestimmbar u. Entgeldforderung
   (Verzug nach 30 Tagen)
 
 
-Kaufvertrag
------------
+## Kaufvertrag
 
 Pflichten:
 - Verkäufer: Übergabe der Sache, Sache muss mangelfrei sein
 - Käufer: Abnahme der Sache, Kaufpreiszahlung
 
-
-Mangel
-------
+## Mangel
 
 - Fehlen der vertraglichen vereinbarten Beschaffenheit
 - Fehlen der Eignung der nach Vertrag vorrausgesetzten oder gewöhnlichen
@@ -162,8 +148,7 @@ Mangel
    - Ablauf der Frist oder 2. Nacherfüllung fehlgeschlagen oder unzumutbar oder
      verweigert -> Minderung, Zurücktritt, Schadensersatz
 
-Mietvertrag
------------
+## Mietvertrag
 
 Mieter:
 - Zahlung der Miete
@@ -180,8 +165,7 @@ Vermieter:
 - Instandhaltung, Verkehrssicherung
 - Lasten der Mietsache tragen
 
-Werkvertrag
------------
+## Werkvertrag
 
 Unternehmer: Herstellung des mangelfreien Werkes
 
@@ -192,14 +176,12 @@ Mangel: ähnlich Kaufvertrag
 Verjährung: wie Kaufvertrag
 
 
-Dienstvertrag <-> Werkvertrag
------------------------------
+## Dienstvertrag <-> Werkvertrag
 
 Schuld: Arbeitsleistung  <-> Erfolg
 
 
-Verbraucherschutz
------------------
+# Verbraucherschutz
 
 Verbraucher: jede natürliche, nicht gewerbliche oder selbstständige Person
 
@@ -220,8 +202,7 @@ Schutzmechanismen:
   - überraschende oder unangemessen benachteiligende Regelung
 - Verbandsklage: Möglichkeit der der Klage für Vereine mit Zweck Verbraucherschutz
 
-AGB:
-----
+## AGB:
 
 - Rationalisierung (Vereinheitlichung, Rechtssicherheit)
 - Lückenfüllung, Rechtsfortbildung
@@ -243,8 +224,9 @@ Folgen unwirksamer AGB
 - AGB (teilweise) unwirksam -> bleibt der restliche Vertrag wirksam
 - Schließung entstandener Lücken werden durch gesetzlichen Regelungen
 
-Erwerb kraft Gesetzes: Hersteller == Eigentümer, Eigentum verwendeter Sachen erlischt
-Erwerb kraft Vertrages: Übergabe des Eigentumsrecht
+*Erwerb kraft Gesetzes:* Hersteller == Eigentümer, Eigentum verwendeter Sachen erlischt
+
+*Erwerb kraft Vertrages*: Übergabe des Eigentumsrecht
 
 Übertragung von unbeweglichen Sachen: notarieller Vertrag, Eintrag ins Grundbuch
 
@@ -257,8 +239,7 @@ abhandgekommen)
 *Eigentumsvorbehalt*: Eigentümerwechsel erst bei Eintritt einer Bedingung (z.B. vollständige Bezahlung des Kaufpreises), Außnahme: Eigentumserwerb kraft Gesetzes, gutgläubiger Erwerb
 
 
-Geistiges Eigentum
-------------------
+# Geistiges Eigentum
 
 Urheberheberrecht:
 - Gilt bei Erschaffung eines Werkes, nur für natürliche Personen (Schöpfer)
@@ -286,16 +267,15 @@ Privatkopie: max. 7 Kopien
 Marke: Jedes Zeichen, das als Herkunftshinweis für Waren/Dienstleistungen dienen
 kann, Unterscheidungskraft zu anderen Waren, kein absolutes Schutzhindernisse
 
-Markenrecht
------------
+## Markenrecht
+
   - gewerbliche Recht
   - Eintragung in das Markenregister
   - oder: Benutzungsmarke durch gewisse Bekanntheit
   - Vermögensgegenstand, Schutz vor Verwechselung (Vertrauensfunktion), Ausschließlichkeitsrecht
   - Beendigung: 10 Jahre nach Anmeldung, beliebig durch Gebühr verlängerbar
 
-Patentrecht
------------
+## Patentrecht
   - nur Erfindungen auf dem Gebiet der Technik (keine Konzepte, Naturgesetze, ...)
   - muss zur Anmeldung neu sein, darf nicht trivial sein
   - erfinderische Tätigkeit
@@ -304,12 +284,10 @@ Patentrecht
 
 Arbeitnehmer-Erfinder: haben Meldepflicht, Arbeitgeber hat Vorzug auf Vergütung
 
-Designschutz
-------------
+## Designschutz
   - Vorraussetzung: Anmeldung, Neuheit, Eigenartigkeit
 
-Wettbewerbsrecht
-----------------
+# Wettbewerbsrecht
 - Qualität im Wettbewerbsrecht, verbietet unlautere Handlungen, die Mitbewerber und/oder Verbraucher nachteilig beeinträchtigen
 - Auszeichnungspflicht für Preise im Handel
 - Verbrauch müssen über Rabatte anständig informiert werden
@@ -323,8 +301,7 @@ Wettbewerbsrecht
     - Gewährleistungsrücktritt für falsche Angaben
     - Vertragsauflösung durch Anfechtung
 
-Handelsrecht
-------------
+# Handelsrecht
  - Einfachheit/Schnelligkeit des Rechtsverkehrs
  - gesteigerte Eigenverantwortlichkeit
  - Verkehrs- und Vertrauensschutz
@@ -333,7 +310,7 @@ Handelsrecht
 Kaufmann:
 - jede Handelsgesellschaft,
 - jeder im Handelsregister
-- jede Handelsgesellschaft
+- jede Handelsgewerbe
 - Firma: Name des Kaufmanns
 - Zweigniederlassung: keine juristische Person
 - Gerichtstand: kann Gericht sich aussuchen
@@ -347,8 +324,7 @@ Handelsgeschäft:
 - Untersuchungspflicht bei mangelhafter Ware (innerhalb von 2 Tagen)
 - Zinsen vom Tage der Fälligkeit
 
-Inhalt des Gesellschaftvertrages
---------------------------------
+## Inhalt des Gesellschaftvertrages
 - Name und Gegenstand des Unternehmens
 - Wahl der Rechtsform
 - Gesellschafter und Haftung
@@ -392,16 +368,14 @@ Personengesellschaften:
     Geschäftsführung/Vertretung
   - Komplementär: unbeschränkte Haftung
 
-Handelsregistereintragung:
---------------------------
+## Handelsregistereintragung:
 
   - Angaben zu den Gesellschaftern
   - Namen und Sitz der Gesellschaft
   - Angaben zur Vertretungsmacht
   - bei KG: Kommanditisten und ihre Einlage
 
-GmbH:
-----
+## GmbH:
 
  - juristische Person nach Eintragung in das Handelsregister, Handelsgesellschaft
  - keine Haftung für Verbindlichkeiten der Gesellschafter
@@ -414,8 +388,7 @@ GmbH:
  - Steuerpflichtig
  - Gewinner der Gesellschafter werden versteuert
 
-Gesellschafterversammlung
--------------------------
+## Gesellschafterversammlung
 
 - Jahresabschluss/Gewinnverteilung
 - bestellt/entlässt Geschäftsführer
@@ -424,8 +397,7 @@ Gesellschafterversammlung
 - beschließt nach Mehrheit der Geschäftsanteile
 - kann mit 3/4-Mehrheit die Satzung ändern
 
-UG:
----
+## UG:
 
 - Stammkapital: 1 bis 24.999 €
 - Name + "UG"
@@ -433,8 +405,7 @@ UG:
   ist
 
 
-Deliktische Haftung
--------------------
+# Deliktische Haftung
 
 - Verletzung von:
   - Leben, Körper, Gesundheit
@@ -454,8 +425,7 @@ Kausalität: Schädigung aufgrund des Ereignisses muss wahrscheinlich sein
 
 Schadensausgleich: Vermögensausgleich vorher <-> nachher, Anspruch verjährt nach 3 Jahren
 
-Schaden:
---------
+## Schaden:
 
 - Wiederherstellungskosten
 - Nutzungsausfall
@@ -463,12 +433,11 @@ Schaden:
 - Kosten der Rechtsdurchsetzung
 - Beweislast durch Geschädigten
 
-Gefährdungshaftung:
--------------------
+## Gefährdungshaftung:
 
 - bestimmte gefährlichen Lebensbereich -> Haftung ohne Verschulden (z.B. Halterhaftung im Straßenverkehr)
 
-Produkthaftung:
+## Produkthaftung:
 - Konstruktionsfehler, die nach dem Stand der Technik nicht vermeidbar sind
 - Haftende: Hersteller der Endprodukte, Zulieferer, Verarbeiter, Importeuer in
   EU, Händler, die den Hersteller nicht benennen können
