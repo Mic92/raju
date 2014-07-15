@@ -1,6 +1,6 @@
 # Öffentliches Recht
 
-- zwischen dem Subject Staat und Bürger
+- zwischen den Subjekten Staat und Bürger
 - *Unterordnung*, z.B. Steuern
 
 # Zivilrecht
@@ -264,8 +264,10 @@ Bearbeitung: nur mit Einwilligung veröffentlichbar (Lizensen)
 
 Privatkopie: max. 7 Kopien
 
-Marke: Jedes Zeichen, das als Herkunftshinweis für Waren/Dienstleistungen dienen
-kann, Unterscheidungskraft zu anderen Waren, kein absolutes Schutzhindernisse
+Marke: 
+- Jedes Zeichen, das als Herkunftshinweis für Waren/Dienstleistungen dienen kann
+- Unterscheidungskraft zu anderen Waren
+- kein absolutes Schutzhindernisse
 
 ## Markenrecht
 
@@ -310,7 +312,7 @@ Arbeitnehmer-Erfinder: haben Meldepflicht, Arbeitgeber hat Vorzug auf Vergütung
 Kaufmann:
 - jede Handelsgesellschaft,
 - jeder im Handelsregister
-- jede Handelsgewerbe
+- jedes Handelsgewerbe
 - Firma: Name des Kaufmanns
 - Zweigniederlassung: keine juristische Person
 - Gerichtstand: kann Gericht sich aussuchen
@@ -321,8 +323,9 @@ Geschäftsführung: die auf die Verfolgung des Gesellschaftszwecks gerichtete T�
 Handelsgeschäft:
 - Bürgschaft formlos wirksam
 - Schweigen gilt als Annahme
-- Untersuchungspflicht bei mangelhafter Ware (innerhalb von 2 Tagen)
-- Zinsen vom Tage der Fälligkeit
+- wenn beide Kaufmann sind:
+  - Untersuchungspflicht bei mangelhafter Ware (innerhalb von 2 Tagen)
+  - Zinsen vom Tage der Fälligkeit
 
 ## Inhalt des Gesellschaftvertrages
 - Name und Gegenstand des Unternehmens
@@ -336,7 +339,7 @@ Handelsgeschäft:
 - Kündigung/Austritt
 - Aufnahme neuer Gesellschafter/Erbfolge
 
-Personengesellschaften:
+## Personengesellschaften:
 
 - Gesellschafter haften voll, Gesellschaft haftet nicht für Gesellschafter
 - keine juristische Person: kann Träger von Rechte/Pflichten sein
@@ -439,6 +442,6 @@ Schadensausgleich: Vermögensausgleich vorher <-> nachher, Anspruch verjährt na
 
 ## Produkthaftung:
 - Konstruktionsfehler, die nach dem Stand der Technik nicht vermeidbar sind
-- Haftende: Hersteller der Endprodukte, Zulieferer, Verarbeiter, Importeuer in
-  EU, Händler, die den Hersteller nicht benennen können
+- Haftende: Hersteller der Endprodukte, Zulieferer, Verarbeiter, EU-Importeuer,
+  Händler, die den Hersteller nicht benennen können
 - Fehler verjährt nach 3 Jahre
