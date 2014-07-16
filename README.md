@@ -131,8 +131,12 @@ Erfüllung: vollständige rechtzeitige und richtige Leistung am richtigen Ort an
 ## Kaufvertrag
 
 Pflichten:
-- Verkäufer: Übergabe der Sache, Sache muss mangelfrei sein
-- Käufer: Abnahme der Sache, Kaufpreiszahlung
+- Verkäufer:
+  - Übergabe der Sache
+  - Sache muss mangelfrei sein
+- Käufer:
+  - Abnahme der Sache
+  - Kaufpreiszahlung
 
 ## Mangel
 
@@ -145,8 +149,10 @@ Pflichten:
 - Verjährung von Ansprüchen: 2 Jahre nach Lieferung (außer Bauwerke -> 5 Jahre)
 - Nacherfüllung verlangen (mit Frist):
    - Nacherfüllung -> Mangelbeseitigung/Neulieferung,
-   - Ablauf der Frist oder 2. Nacherfüllung fehlgeschlagen oder unzumutbar oder
-     verweigert -> Minderung, Zurücktritt, Schadensersatz
+   - Minderung; Zurücktritt; Schadensersatz, falls:
+     - Ablauf der Frist
+     - 2. Nacherfüllung fehlgeschlagen oder unzumutbar
+     - verweigert
 
 ## Mietvertrag
 
@@ -415,8 +421,8 @@ Handelsgeschäft:
   - Freiheit
   - Eigentum
   - Persönlichkeitsrecht, Gewerbebetrieb
-- Verschuldensprinzip: vorsätzlich und fahrlässig
-- nur durch "aktives" Handeln
+- Verschuldensprinzip: vorsätzliches oder fahrlässiges Handeln
+- nur durch "aktives" Handeln (kein passives unterlassen)
 - Verkehrsicherungspflicht: Gefahren in seinem Verantwortungsbereich minimieren
   z.B. Bausstelle absichern
 
